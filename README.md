@@ -1,8 +1,6 @@
 ### Console.log("Hello World👋")
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+  
   
   ![banner (1)](https://user-images.githubusercontent.com/87677914/184915940-84aff218-55dc-427c-988f-21008d5cee86.png)
 
