@@ -33,7 +33,7 @@
 ## My Skill Set  
 
 
-
+<br/> 
 
 
 <div align="center">  
@@ -65,10 +65,13 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+<br/> 
 
 
 ## Connect with me  
+<br/> 
+<br/> 
 - gimemezgaston@gmail.com📪  
   
 
