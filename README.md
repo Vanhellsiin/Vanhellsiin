@@ -7,6 +7,10 @@
 ### <div align="center">I'm Gastón, a full-time full-stack developer 👨‍💻. Innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React, Redux, NodeJs, Express, PostgresSQL, Sequelizze. Finished an intensive bootcamp, and now I'm ready to apply my passion for coding to a talented team to develop quality solutions🚀.
 
  </div>  
+ 
+ <br/> 
+ <br/> 
+ <br/> 
   
 
 - 🔭 I’m currently working on my Portfolio  
@@ -21,7 +25,9 @@
 - ⚡ Fun fact: i'm a frustrated economist  
   
 
-<br/>  
+<br/> 
+<br/> 
+<br/> 
 
 
 ## My Skill Set  
