@@ -71,9 +71,10 @@
 
 ## Connect with me  
 <br/> 
-<br/> 
+
 - gimemezgaston@gmail.com📪  
-  
+ 
+  <br/> 
 
 - https://www.linkedin.com/in/ggimenez-tag/  
   
