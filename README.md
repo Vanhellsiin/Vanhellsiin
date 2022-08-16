@@ -4,9 +4,9 @@
   
   ![banner (1)](https://user-images.githubusercontent.com/87677914/184915940-84aff218-55dc-427c-988f-21008d5cee86.png)
 
-### <div align="center">I'm Gastón, a full-time full-stack developer 👨‍💻. Innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React, Redux, NodeJs, Express, PostgresSQL, Sequelizze. Finished an intensive bootcamp, and now I'm ready to apply my passion for coding to a talented team to develop quality solutions.
+### <div align="center">I'm Gastón, a full-time full-stack developer 👨‍💻. Innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React, Redux, NodeJs, Express, PostgresSQL, Sequelizze. Finished an intensive bootcamp, and now I'm ready to apply my passion for coding to a talented team to develop quality solutions🚀.
 
- 🚀</div>  
+ </div>  
   
 
 - 🔭 I’m currently working on my Portfolio  
