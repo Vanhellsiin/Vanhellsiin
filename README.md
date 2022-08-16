@@ -73,21 +73,6 @@
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
