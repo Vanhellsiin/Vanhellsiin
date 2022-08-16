@@ -4,7 +4,7 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-  ![hi](https://github.com/Vanhellsiin/Vanhellsiin/blob/main/FULLSTACK%20WEB.png)
+  ![](https://github.com/Vanhellsiin/Vanhellsiin/blob/main/FULLSTACK%20WEB.png)
 
 ### <div align="center">I'm Gastón, a full-time full-stack developer 👨‍💻. Innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React, Redux, NodeJs, Express, PostgresSQL, Sequelizze. Finished an intensive bootcamp, and now I'm ready to apply my passion for coding to a talented team to develop quality solutions.
 
