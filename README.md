@@ -25,8 +25,7 @@
 - ⚡ Fun fact: i'm a frustrated economist  
   
 
-<br/> 
-<br/> 
+
 <br/> 
 
 
@@ -66,7 +65,7 @@
 </td></tr></table>  
 
 <br/> 
-<br/> 
+ 
 
 
 ## Connect with me  
@@ -82,7 +81,7 @@
 
   
 
-<br/>  
+ 
 
   
 
