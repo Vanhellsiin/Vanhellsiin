@@ -70,8 +70,10 @@
 
 ## Connect with me  
 <br/> 
+
 - gimemezgaston@gmail.com📪  
  
+
   <br/> 
 
 - https://www.linkedin.com/in/ggimenez-tag/  
