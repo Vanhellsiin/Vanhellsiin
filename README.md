@@ -70,7 +70,6 @@
 
 ## Connect with me  
 <br/> 
-
 - gimemezgaston@gmail.com📪  
  
   <br/> 
@@ -80,13 +79,6 @@
 
 
   
-
- 
-
-  
-
-<br/>  
-
   
 
 <br/>  
