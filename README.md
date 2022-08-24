@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on my Portfolio  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning JAVA and SPRING
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
